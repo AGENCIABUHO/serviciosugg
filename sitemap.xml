@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://maternasalud.com/index.html</loc>
+    <lastmod>2019-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/bombas-agua.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/adobestock_199810981212%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/bouwpolis.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/dl3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/hvac-repair-jacksonville-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/consejos-de-albanhileria-1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://maternasalud.com/images/plumbing-plumber-and-plumbing-services-1.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
