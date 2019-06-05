@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'lgalvez@sociedadestrategica.com',
-		'to' => 'lgalvez@sociedadestrategica.com'
+		'from' => 'lgalvez@maternasalud.com',
+		'to' => 'lgalvez@maternasalud.com'
 	),
 	'fields' => array(
 		'custom_U828' => array(

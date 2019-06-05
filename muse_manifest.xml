@@ -1,19 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maternasalud.com" resolutions="1x" timestamp="1558201184230">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maternasalud.com" resolutions="1x" timestamp="1559748974509">
   <folder name="css">
     <file name="site_global.css" crc="4120343668"/>
-    <file name="index.css" crc="69492808" ref="index"/>
-    <file name="nomq_index.css" crc="466388713" ref="index"/>
+    <file name="index.css" crc="3844590418" ref="index"/>
+    <file name="nomq_index.css" crc="299048760" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="poppins-light.woff" crc="3867241023"/>
-    <file name="poppins-light.eot" crc="517033531"/>
-    <file name="poppins-light.svg" crc="93111290"/>
-    <file name="calibri.woff" crc="114382010"/>
-    <file name="calibri.eot" crc="9297144"/>
-    <file name="calibri.svg" crc="7832716"/>
-    <file name="poppins-bold.woff" crc="33472148"/>
-    <file name="poppins-bold.eot" crc="3950271175"/>
-    <file name="poppins.svg" crc="134666602"/>
     <file name="poppins-semibold.woff" crc="4071072832"/>
     <file name="poppins-semibold.eot" crc="4270797918"/>
     <file name="poppins-semibold.svg" crc="224549318"/>
@@ -23,6 +14,15 @@
     <file name="calibri-bold.woff" crc="7743750"/>
     <file name="calibri-bold.eot" crc="4009404916"/>
     <file name="calibri-bold.svg" crc="4092228943"/>
+    <file name="poppins-light.woff" crc="3867241023"/>
+    <file name="poppins-light.eot" crc="517033531"/>
+    <file name="poppins-light.svg" crc="93111290"/>
+    <file name="poppins-bold.woff" crc="33472148"/>
+    <file name="poppins-bold.eot" crc="3950271175"/>
+    <file name="poppins.svg" crc="134666602"/>
+    <file name="calibri.woff" crc="114382010"/>
+    <file name="calibri.eot" crc="9297144"/>
+    <file name="calibri.svg" crc="7832716"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -39,7 +39,7 @@
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u808.php" crc="3876584076" ref="index"/>
+    <file name="form-u808.php" crc="208188626" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
@@ -113,10 +113,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chat whatsapp.svg" crc="3851674781" ref="index"/>
-    <file name="chat whatsapp_poster_u971.png" crc="352399303" ref="index"/>
-    <file name="cotnacto.svg" crc="4287137885" ref="index"/>
-    <file name="cotnacto_poster_u923.png" crc="5665975" ref="index"/>
     <file name="9109a54fad7678654221d934fb6a9e46-u436-fr.png" crc="3960047322" ref="index"/>
     <file name="bombas-agua-u573-fr.jpg" crc="230426919" ref="index"/>
     <file name="37897-12765629-u1205-fr.jpg" crc="286626039" ref="index"/>
@@ -126,5 +122,5 @@
     <file name="logo-u98-fr.jpg" crc="3824291687" ref="index"/>
     <file name="9109a54fad7678654221d934fb6a9e46-u436-fr2.png" crc="510269816" ref="index"/>
   </folder>
-  <file name="index.html" crc="3801581782" seo="true" mt="1558200793536" redirect="true"/>
+  <file name="index.html" crc="120688061" seo="true" mt="1559748962504" redirect="true"/>
 </manifest>
