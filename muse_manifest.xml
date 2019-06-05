@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maternasalud.com" resolutions="1x" timestamp="1559748974509">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maternasalud.com" resolutions="1x" timestamp="1559749414420">
   <folder name="css">
     <file name="site_global.css" crc="4120343668"/>
     <file name="index.css" crc="3844590418" ref="index"/>
@@ -122,5 +122,5 @@
     <file name="logo-u98-fr.jpg" crc="3824291687" ref="index"/>
     <file name="9109a54fad7678654221d934fb6a9e46-u436-fr2.png" crc="510269816" ref="index"/>
   </folder>
-  <file name="index.html" crc="120688061" seo="true" mt="1559748962504" redirect="true"/>
+  <file name="index.html" crc="235598584" seo="true" mt="1559749394454" redirect="true"/>
 </manifest>
