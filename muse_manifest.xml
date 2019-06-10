@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maternasalud.com" resolutions="1x" timestamp="1559749414420">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maternasalud.com" resolutions="1x" timestamp="1560179363608">
   <folder name="css">
     <file name="site_global.css" crc="4120343668"/>
-    <file name="index.css" crc="3844590418" ref="index"/>
-    <file name="nomq_index.css" crc="299048760" ref="index"/>
+    <file name="index.css" crc="14709362" ref="index"/>
+    <file name="nomq_index.css" crc="75586589" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="poppins-semibold.woff" crc="4071072832"/>
-    <file name="poppins-semibold.eot" crc="4270797918"/>
-    <file name="poppins-semibold.svg" crc="224549318"/>
+    <file name="poppins-bold.woff" crc="33472148"/>
+    <file name="poppins-bold.eot" crc="3950271175"/>
+    <file name="poppins.svg" crc="134666602"/>
     <file name="poppins-regular.woff" crc="3768624378"/>
     <file name="poppins-regular.eot" crc="134774066"/>
     <file name="poppins-regular.svg" crc="4192007387"/>
@@ -17,9 +17,9 @@
     <file name="poppins-light.woff" crc="3867241023"/>
     <file name="poppins-light.eot" crc="517033531"/>
     <file name="poppins-light.svg" crc="93111290"/>
-    <file name="poppins-bold.woff" crc="33472148"/>
-    <file name="poppins-bold.eot" crc="3950271175"/>
-    <file name="poppins.svg" crc="134666602"/>
+    <file name="poppins-semibold.woff" crc="4071072832"/>
+    <file name="poppins-semibold.eot" crc="4270797918"/>
+    <file name="poppins-semibold.svg" crc="224549318"/>
     <file name="calibri.woff" crc="114382010"/>
     <file name="calibri.eot" crc="9297144"/>
     <file name="calibri.svg" crc="7832716"/>
@@ -73,12 +73,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="consejos-de-albanhileria-1920.jpg" crc="70981714" seo="true" ref="index">
+    <file name="consejos-de-albanhileria-1920.jpg" crc="4273030476" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="plumbing-plumber-and-plumbing-services-1.jpg" crc="4277810201" seo="true" ref="index">
+    <file name="plumbing-plumber-and-plumbing-services-1.jpg" crc="245320977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -92,17 +92,17 @@
     <file name="9109a54fad7678654221d934fb6a9e46.png" crc="366486972" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="plumbing-plumber-and-plumbing-services-1-u573-fr.jpg" crc="53104838" ref="index"/>
     <file name="fondoblancocontextura.png" crc="260740719" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="consejos-de-albanhileria-1920-u1103-fr.jpg" crc="3760952237" ref="index"/>
-    <file name="37897-12765629.jpg" crc="5754529" ref="index">
+    <file name="herramientas-para-electricista.jpg" crc="3767566760" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="insurgentes-sur-045-1024x768.jpg" crc="4133059640" ref="index">
+    <file name="maxresdefault.jpg" crc="93626029" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="plumbing-plumber-and-plumbing-services-1-u1292-fr.jpg" crc="281998782" ref="index"/>
+    <file name="consejos-de-albanhileria-1920-u1292-fr.jpg" crc="4131004137" ref="index"/>
     <file name="icono_celular.svg" crc="4043924419" ref="index"/>
     <file name="icono_celular_poster_u374.png" crc="128130731" ref="index"/>
     <file name="icono_mail.svg" crc="311456751" ref="index"/>
@@ -114,13 +114,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="9109a54fad7678654221d934fb6a9e46-u436-fr.png" crc="3960047322" ref="index"/>
-    <file name="bombas-agua-u573-fr.jpg" crc="230426919" ref="index"/>
-    <file name="37897-12765629-u1205-fr.jpg" crc="286626039" ref="index"/>
-    <file name="consejos-de-albanhileria-1920-u1103-fr2.jpg" crc="3832504862" ref="index"/>
-    <file name="insurgentes-sur-045-1024x768-u1190-fr.jpg" crc="324513945" ref="index"/>
-    <file name="plumbing-plumber-and-plumbing-services-1-u1292-fr2.jpg" crc="422441391" ref="index"/>
+    <file name="plumbing-plumber-and-plumbing-services-1-u573-fr2.jpg" crc="4057612231" ref="index"/>
+    <file name="bombas-agua-u1205-fr.jpg" crc="3938067276" ref="index"/>
+    <file name="herramientas-para-electricista-u1103-fr.jpg" crc="91237068" ref="index"/>
+    <file name="maxresdefault-u1190-fr.jpg" crc="4290970529" ref="index"/>
+    <file name="consejos-de-albanhileria-1920-u1292-fr2.jpg" crc="4086866916" ref="index"/>
     <file name="logo-u98-fr.jpg" crc="3824291687" ref="index"/>
     <file name="9109a54fad7678654221d934fb6a9e46-u436-fr2.png" crc="510269816" ref="index"/>
   </folder>
-  <file name="index.html" crc="235598584" seo="true" mt="1559749394454" redirect="true"/>
+  <file name="index.html" crc="3815603718" seo="true" mt="1560179313916" redirect="true"/>
 </manifest>
